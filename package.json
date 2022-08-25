@@ -17,11 +17,13 @@
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
     "@mui/material": "^5.10.1",
+    "date-fns": "^2.29.2",
+    "gray-matter": "^4.0.3",
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "remark": "^14.0.2",
-    "remark-frontmatter": "^4.0.1"
+    "remark-html": "^15.0.1"
   },
   "devDependencies": {
     "@stylelint/postcss-css-in-js": "^0.38.0",
@@ -34,6 +36,7 @@
     "eslint-config-next": "12.2.5",
     "eslint-config-prettier": "^8.5.0",
     "prettier": "^2.7.1",
+    "remark-frontmatter": "^4.0.1",
     "stylelint": "^14.11.0",
     "stylelint-config-idiomatic-order": "^8.1.0",
     "stylelint-config-prettier": "^9.0.3",

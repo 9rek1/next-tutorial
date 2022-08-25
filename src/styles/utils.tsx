@@ -1,6 +1,6 @@
 import { css } from '@emotion/react';
 
-const styles = {
+const utilStyles = {
   heading2Xl: css`
     font-size: 2.5rem;
     line-height: 1.2;
@@ -55,4 +55,4 @@ const styles = {
   `,
 };
 
-export default styles;
+export default utilStyles;
