@@ -16,10 +16,7 @@ const Home = ({
       </Head>
       <section css={utilStyles.headingMd}>
         <p>Hello, I&#39;m 9rek1.</p>
-        <p>
-          (This is a sample website - you&#39;ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        <p>This is test deploy</p>
       </section>
       <section css={[utilStyles.headingMd, utilStyles.padding1px]}>
         <h2 css={utilStyles.headingLg}>Blog</h2>
